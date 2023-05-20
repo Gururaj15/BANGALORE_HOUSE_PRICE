@@ -12,4 +12,4 @@ This data science project is a real estate price prediction website. We will fir
 
 "to run the project plc run python server.py inthe terminal and open app.html and refresh"
 
-![](BHP_website.PNG)
+![](BHP_WEBSITE.PNG)
