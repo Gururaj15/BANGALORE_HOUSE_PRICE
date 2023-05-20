@@ -9,3 +9,7 @@ This data science project is a real estate price prediction website. We will fir
 5. Jupyter notebook, visual studio code and pycharm as IDE
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
+
+"to run the project plc run python server.py inthe terminal and open app.html and refresh"
+
+![](BHP_website.PNG)
