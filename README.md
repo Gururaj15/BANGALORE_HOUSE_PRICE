@@ -13,4 +13,6 @@ This data science project is a real estate price prediction website. We will fir
 
 "to run the project plc run python server.py inthe terminal and open app.html and refresh"
 
-
+<p align="center"> 
+<img src="server/BHP_WEBSITE.png" alt="all.png" height="382px">
+</p>
